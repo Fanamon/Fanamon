@@ -1,16 +1,16 @@
-## Hi there 👋
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Profile Header</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
 
-<!--
-**Fanamon/Fanamon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div class="header">
+    <h1>My GitHub Profile</h1>
+    <p> Ya krutoy specialist !</p>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Unity Engine
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate on Midcore projects
-- 🤔 I’m looking for help with seaking new Unity and development knowledge
-- 💬 Ask me about everything
-- 📫 How to reach me: easely
-- 😄 Pronouns: Nick, Fanamon, Warlock
-- ⚡ Fun fact: I'm still alive))) It's miracle!!!
--->
+</body>
+</html>
