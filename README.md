@@ -33,8 +33,7 @@
 [<img align="left" alt="NikitaShatalov | Telegram" width="22px" src="https://devicons.railway.app/i/telegram.svg" />][telegram]
 
 <br />
-
-### Git Info
+<br />
 
 <details>
   <summary>:zap: Statistics:</summary>
