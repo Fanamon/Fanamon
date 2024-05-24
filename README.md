@@ -34,7 +34,7 @@
 
 <br />
 
-### My Projects:
+### Git Info
 
 <details>
   <summary>:zap: Statistics:</summary>
