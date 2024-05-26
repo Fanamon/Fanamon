@@ -17,7 +17,7 @@
 </div>
 <br />
 
-### About me
+## About me
 - 🌱 I always learn **C#** and **Unity**
 - 📄 My experience is presented on [LinkedIn](https://www.linkedin.com/in/nikita-shatalov-2694b0239/)
 - 📫 Reach me by [email](mailto:shatalov1998@yahoo.com)
@@ -39,7 +39,7 @@
 <br />
 
 <details>
-  <summary>:zap: Statistics:</summary>
+  <summary><h3><b>:zap: Statistics:</b></h3></summary>
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fanamon&langs_count=8&layout=compact" />
     <br />
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Fanamon&show_icons=true&theme=tokyonight" />
