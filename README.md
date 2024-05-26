@@ -15,7 +15,7 @@
 
 <br />
 
-### 🧰 Languages and Tools:
+### :hammer_and_wrench: Languages and Tools:
 <img align="left" alt="VisualStudio" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" />
 <img align="left" alt="CSharp" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" />
