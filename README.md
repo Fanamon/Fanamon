@@ -18,9 +18,9 @@
 <br />
 
 ### About me
-- 💪 I enjoy coding
-- 🎉 I love playing video games, watching movies and participating board games
-- 🥅 I'm constantly learning new things
+- 🌱 I always learn **C#** and **Unity**
+- 📄 My experience is presented on [LinkedIn](https://www.linkedin.com/in/nikita-shatalov-2694b0239/)
+- 📫 Reach me by [email](mailto:shatalov1998@yahoo.com)
 - 🤹🏽 I'm always looking for new friends and contacts
 
 ---
