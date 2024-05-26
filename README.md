@@ -1,19 +1,29 @@
-### Hello there 👋, I'm Nikita
+<div id = "header", align = "center">
+<h1>Hello there 👋, I'm Nikita</h1>
+<h3>Unity Developer</h3>
 
-   <p align="left">
-      <a href="https://github.com/Fanamon?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Fanamon?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/Fanamon?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Fanamon?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+<a href = "https://discordapp.com/users/311570765172572170/">
+<img src = "https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt = "Discord" />
+</a>
 
-## I'm Unity Developer
+<a href = "https://www.linkedin.com/in/nikita-shatalov-2694b0239/">
+<img src = "https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt = "LinkedIn" />
+</a>
+
+<a href = "https://t.me/Fanamon/">
+<img src = "https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt = "Telegram" />
+</a>
+
+</div>
+<br />
+
+### About me
 - 💪 I enjoy coding
 - 🎉 I love playing video games, watching movies and participating board games
 - 🥅 I'm constantly learning new things
 - 🤹🏽 I'm always looking for new friends and contacts
 
-<br />
+---
 
 ### :hammer_and_wrench: Languages and Tools:
 <img align="left" alt="VisualStudio" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" />
@@ -26,14 +36,6 @@
 
 <br />
 <br />
-
-### Connect with me:
-
-[<img align="left" alt="NikitaShatalov | Discord" width="22px" src="https://devicons.railway.app/i/discord.svg" />][discord]
-[<img align="left" alt="NikitaShatalov | LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
-[<img align="left" alt="NikitaShatalov | Telegram" width="22px" src="https://devicons.railway.app/i/telegram.svg" />][telegram]
-
-<br />
 <br />
 
 <details>
@@ -42,7 +44,3 @@
     <br />
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Fanamon&show_icons=true&theme=tokyonight" />
 </details>
-
-[discord]: https://discordapp.com/users/311570765172572170/
-[linkedin]: https://www.linkedin.com/in/nikita-shatalov-2694b0239/
-[telegram]: https://t.me/Fanamon/
