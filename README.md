@@ -6,7 +6,7 @@
 <img src = "https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt = "Discord" />
 </a>
 
-<a href = "https://www.linkedin.com/in/nikita-shatalov-2694b0239/">
+<a href = "https://www.linkedin.com/in/nikita-shatalov-22936134a/">
 <img src = "https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt = "LinkedIn" />
 </a>
 
